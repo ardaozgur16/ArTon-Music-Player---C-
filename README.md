@@ -1,4 +1,4 @@
-# ArTon-Music-Player---C-
+# ArTon-Music-Player---C++-
 \## Proje Hakkında
 
 \*\*Arton Music Player\*\*, Veri Yapıları dersi kapsamında geliştirilmiş konsol tabanlı bir müzik çalar uygulamasıdır. Projenin temel amacı, şarkıların yönetimini statik diziler yerine dinamik \*\*Çift Yönlü Bağlı Liste (Doubly Linked List)\*\* yapısı ile gerçekleştirmektir.
